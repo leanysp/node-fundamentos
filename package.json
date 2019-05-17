@@ -1,0 +1,23 @@
+{
+  "name": "fundamentosnodejs",
+  "version": "1.0.1",
+  "description": "primer trabajo",
+  "main": "archivo.js",
+  "dependencies": {
+    "yargs": "^13.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leanysp/node-fundamentos.git"
+  },
+  "author": "Leanys leanysp@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leanysp/node-fundamentos/issues"
+  },
+  "homepage": "https://github.com/leanysp/node-fundamentos#readme"
+}
